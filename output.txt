@@ -1,0 +1,44 @@
+Input file sucessfully opened...
+
+Start of Assignment 3
+
+Infix: 20/2-(5+12-2)
+Postfix: 202/512+2--
+Evaluation: 4
+
+Infix: 4*2^ (2*3)
+Postfix: 4223*^*
+Evaluation: 256
+
+Infix: 4 * (8-6) ^ (9-5) -8*2
+Postfix: 486-95-^*82*-
+Evaluation: 48
+
+Infix: 4 * (7 - 6) / (9-5)) - 8*8
+Error: more right than left parentheses
+
+
+Infix: (8 + 6 * 5)/(8 - 3 * 2)
+Postfix: 865*+832*-/
+Evaluation: 19
+
+Infix: 4 * (8 - 3) ^ (((7-5)) - 8*8
+Error: more left than right parentheses
+
+
+Infix: (9-7) * ((5-4 * 2)/3/5) * 2
+Postfix: 97-542*-3/5/*2*
+Evaluation: -0.8
+
+Infix: (8/2/2)-3^2
+Postfix: 82/2/32^-
+Evaluation: -7
+
+Infix: 4 * (8 - 3) ^ ((7-5)) - 8*8
+Postfix: 483-75-^*88*-
+Evaluation: 36
+
+Infix: 4 * (7 - 6) / (9-5) - 8*8
+Postfix: 476-*95-/88*-
+Evaluation: -63
+
