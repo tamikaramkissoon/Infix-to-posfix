@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-The conversion of infix to postfix is extremely importance to machines since a machine cannot differentiate the operators and parenthesis easily. The infix ti postfix program uses the C++ language to perform the conversion of infix expression to postfix expression and evaluate the expressions based on BODMAS.
+The conversion of infix to postfix is extremely importance to machines since a machine cannot differentiate the operators and parenthesis easily. The infix to postfix program uses the C++ language to perform the conversion of infix expression to postfix expression and evaluate the expressions based on BODMAS.
 
 --- 
 
